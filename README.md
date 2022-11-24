@@ -15,7 +15,7 @@
 2. Android Studio
 3. Figma for basic UI design
 4. HERE APIs: 
-    \* HERE Routing
-    \* HERE Map routing
-    \* HERE Tracking
+    * HERE Routing
+    * HERE Map routing
+    * HERE Tracking
 
